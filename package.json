@@ -44,6 +44,10 @@
       "git add"
     ]
   },
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
   "jest": {
     "coverageReporters": [
       "text",
